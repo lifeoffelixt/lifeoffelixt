@@ -1,7 +1,7 @@
 ### Hi there, I'm Felix 👋
 
 
-## I'm a Statistics / Computer Science Student at LMU!!
+## I'm a Data Science Student at FAU!!
 
 - 👨🏼‍💻 I'm currently working as a working student in Data Science at MTU Aero Engines 
 
