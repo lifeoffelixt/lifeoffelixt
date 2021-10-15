@@ -3,7 +3,7 @@
 
 ## I'm a Data Science Student at FAU!!
 
-- 👨🏼‍💻 I'm currently working as a working student in Data Science at MTU Aero Engines 
+- 👨🏼‍💻 I worked as a working student in Data Science at MTU Aero Engines 
 
 ### Languages and Tools:
 
