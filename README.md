@@ -3,6 +3,7 @@
 
 ## I'm a Data Science Student at FAU!!
 
+- 👨🏼‍💻  Working Student Data Science @ Codemanufaktur
 - 👨🏼‍💻 Former Working Student Data Science @ MTU Aero Engines AG
 
 ### Languages and Tools:
