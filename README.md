@@ -3,7 +3,7 @@
 
 ## I'm a Data Science Student at FAU!!
 
-- 👨🏼‍💻 Intern Data Science @ MTU Aero Engines AG
+- 👨🏼‍💻 Intern AI Center of Excellence @ MTU Aero Engines AG
 - 👨🏼‍💻 Former Working Student Data Science @ Codemanufaktur
 - 👨🏼‍💻 Former Working Student Data Science @ MTU Aero Engines AG
 
